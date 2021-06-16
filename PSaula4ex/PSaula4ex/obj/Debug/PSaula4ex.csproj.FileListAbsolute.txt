@@ -1,0 +1,13 @@
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\bin\Debug\PSaula4ex.exe.config
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\bin\Debug\PSaula4ex.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\bin\Debug\PSaula4ex.pdb
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.frmEscolha.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.FormBase.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.frmCadastro.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.frmConsulta.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.Properties.Resources.resources
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PS1A5\PSaula4ex\PSaula4ex\obj\Debug\PSaula4ex.pdb
